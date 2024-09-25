@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text">22sp</dimen>
+    <dimen name="text">22sp</dimen>
+    <dimen name="line_spacing">8sp</dimen>
+    <dimen name="text_panel">26sp</dimen>
+    <dimen name="text_settings_2">16sp</dimen>
+    <dimen name="button_marginTop">8dp</dimen>
+    <dimen name="layout">24dp</dimen>
+    <dimen name="layout_marginTop">19dp</dimen>
+    <dimen name="layout_marginEnd">12dp</dimen>
+    <dimen name="layout_marginStart">16dp</dimen>
+    <dimen name="layout_height">61dp</dimen>
+    <dimen name="iconPadding">0dp</dimen>
+    <dimen name="cornerRadius">16dp</dimen>
+
+
+</resources>
